@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Microservices architecture & Event-driven systems**
 
-- 🌱 I’m currently learning **System Design, Cloud Native, Kafka Streams**
+- 🌱 I’m currently learning and exploring **System Design, Cloud NatJVM Internals & Garbage Collection - Rust Internals & Memory Safety - Distributed Systems Design - Event-driven architectures (Kafka)**
 
 - 👯 I’m looking to collaborate on **Java backend projects, Microservices, Open source**
 
@@ -13,7 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamSolanki](https://github.com/ShubhamSolanki)
 
-- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, AWS, REST APIs**
+- 📝 I regularly write articles on [Technical blogs on Backend Systems, JVM internals & Distributed Systems (coming soon)](Technical blogs on Backend Systems, JVM internals & Distributed Systems (coming soon))
+
+- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, AWS, REST APIs, CI/CD, Docker, JVM Internals, Production Debugging**
 
 - 📫 How to reach me **shubhamsolanki0x@gmail.com**
 
