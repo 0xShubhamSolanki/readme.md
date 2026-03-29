@@ -98,5 +98,3 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xShubhamSolanki&theme=tokyonight" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShubhamSolanki&theme=tokyo-night" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShubhamSolanki&theme=tokyo-night" />
