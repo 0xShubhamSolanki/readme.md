@@ -93,8 +93,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSolanki&theme=tokyonight" />
 </p>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=XXXXX" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=XXXXX" />
-</a>
+## 📊 Contribution Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSolanki&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSolanki&theme=tokyo-night" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSolanki&theme=tokyo-night" />
