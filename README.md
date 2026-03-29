@@ -1,5 +1,15 @@
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi 👋, I'm Shubham Solanki</h1>
 <h3 align="center">Java Backend Developer with 3.9+ years of experience</h3>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsolanki0x&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsolanki0x" /> </p>
 
