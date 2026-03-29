@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsolanki0x&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsolanki0x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsolanki0x" alt="shubhamsolanki0x" /></a> </p>
-
 - 🔭 I’m currently working on **Microservices architecture & Event-driven systems**
 
 - 🌱 I’m currently learning **System Design, Cloud Native, Kafka Streams**
