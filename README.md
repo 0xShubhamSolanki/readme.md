@@ -89,14 +89,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSolanki&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSolanki&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xShubhamSolanki&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xShubhamSolanki&theme=tokyonight" />
 </p>
 
 ## 📊 Contribution Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSolanki&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xShubhamSolanki&theme=tokyonight" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSolanki&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShubhamSolanki&theme=tokyo-night" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSolanki&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShubhamSolanki&theme=tokyo-night" />
