@@ -93,4 +93,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSolanki&theme=tokyonight" />
 </p>
 
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=XXXXX" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=XXXXX" />
+</a>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSolanki&theme=tokyo-night" />
