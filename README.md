@@ -3,8 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Shubham Solanki</h1>
-<h3 align="center">Backend Developer with 3.9+ years of experience</h3>
-
+<h3 align="center">🧠 Backend Engineer | Systems, JVM Internals | | Building Scalable Microservices & Distributed Systems</h3>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
